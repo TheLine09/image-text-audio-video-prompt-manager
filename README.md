@@ -103,22 +103,6 @@
 
 ***
 
-## ⚙️ 配置说明
-
-`config.json` 文件包含以下配置项：
-
-| 配置项                        | 说明           | 默认值  |
-| -------------------------- | ------------ | ---- |
-| `layout_mode`              | 布局模式（1/2/3）  | 2    |
-| `sync_mode`                | 同步模式（1/2/3）  | 1    |
-| `default_tags_enabled`     | 是否启用默认标签     | true |
-| `default_doc_tags_enabled` | 是否启用文档默认标签   | true |
-| `delete_confirm`           | 删除时是否确认      | true |
-| `scrollbar_style`          | 滚动条样式（s/m/w） | s    |
-| `prompt_font_size`         | 提示词字号        | 11   |
-
-***
-
 ## 💡 使用技巧
 
 1. **批量管理**：使用修改模式可以批量编辑多个媒体的标题和提示词
@@ -151,8 +135,7 @@
 <br />
 
 ### 微信
-![Uploading image.png…]()
-
+<img width="625" height="927" alt="image" src="https://github.com/user-attachments/assets/e878e2f0-76ce-4342-9825-2bf7842ec0fe" />
 
 ***
 
