@@ -64,14 +64,17 @@
 ## 📷 界面预览
 
 ### 首页界面
+<img width="2104" height="1397" alt="image" src="https://github.com/user-attachments/assets/e9ad36b7-f2b5-4dae-9f42-e3518466911d" />
 
 <br />
 
 ### 添加界面
+<img width="2104" height="1397" alt="image" src="https://github.com/user-attachments/assets/c1b83296-5bb7-4cfa-aff8-1864df3a7b64" />
 
 <br />
 
 ### 设置界面
+<img width="2104" height="1397" alt="image" src="https://github.com/user-attachments/assets/175e2968-7e51-49f3-aa22-0db3fa8a790b" />
 
 <br />
 
@@ -143,12 +146,13 @@
 如果您觉得这款软件对您有帮助，欢迎通过以下方式进行赞赏支持，您的鼓励是我持续开发的动力！
 
 ### 支付宝
+<img width="609" height="936" alt="image" src="https://github.com/user-attachments/assets/f97cc1ba-b0b4-4cce-b305-fd5e7eb7b4c1" />
 
 <br />
 
 ### 微信
+![Uploading image.png…]()
 
-![](<file:///C:\Users\29552\Documents\Tencent Files\2955263539\nt_qq\nt_data\Pic\2026-05\Ori\ffb83659ce4e398b2fc869240bcdf10b.png>)![](<file:///C:\Users\29552\Documents\Tencent Files\2955263539\nt_qq\nt_data\Pic\2026-05\Ori\ffb83659ce4e398b2fc869240bcdf10b.png>)
 
 ***
 
